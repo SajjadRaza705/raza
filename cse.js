@@ -25,7 +25,7 @@
 </style>
 <link rel='stylesheet' id='twentytwenty-print-style-css'  href='https://sajjad.gq/wp-content/themes/twentytwenty/print.css?ver=1.5' media='print' />
 <link rel='stylesheet' id='jquery-lazyloadxt-spinner-css-css'  href='//sajjad.gq/wp-content/plugins/a3-lazy-load/assets/css/jquery.lazyloadxt.spinner.css?ver=5.5.1' media='all' />
-<link rel='stylesheet' id='a3a3_lazy_load-css'  href='//sajjad.gq/wp-content/uploads/sass/a3_lazy_load.min.css?ver=1602401283' media='all' />
+<link rel='stylesheet' id='a3a3_lazy_load-css'  href='//sajjad.gq/wp-content/uploads/sass/a3_lazy_load.min.css?ver=1602404437' media='all' />
 <script src='https://sajjad.gq/wp-content/themes/twentytwenty/assets/js/index.js?ver=1.5' id='twentytwenty-js-js' async></script>
 <script src='https://sajjad.gq/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
 <link rel="https://api.w.org/" href="https://sajjad.gq/wp-json/" /><link rel="alternate" type="application/json" href="https://sajjad.gq/wp-json/wp/v2/posts/372" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://sajjad.gq/xmlrpc.php?rsd" />
