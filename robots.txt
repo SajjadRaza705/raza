@@ -4,4 +4,4 @@ Allow: /sajjadraza/sitemap.html
 Allow: */sitemap.html
 Allow: /sitemap.html
        
-Sitemap: https://sajjad.gq/wp-sitemap.xml
+Sitemap: https://sajjad.gq/sitemap.html
