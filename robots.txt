@@ -1,7 +1,4 @@
-User-agent: *
-Disallow: /sajjadraza/wp-admin/
-Allow: /sajjadraza/sitemap.html
-Allow: https://sajjad.gq/sitemap.html
-Allow: /sitemap.html
-       
 Sitemap: https://sajjad.gq/sitemap.html
+User-agent: *
+
+
