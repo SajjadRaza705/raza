@@ -41,7 +41,7 @@ package = "netlify-plugin-image-optim"
   package = "netlify-plugin-gatsby-cache"
   
   [build]
-  publish = "/"
+  publish = "/.cache"
 
 [[plugins]]
   package = "netlify-plugin-gridsome-cache"
