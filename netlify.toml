@@ -33,5 +33,11 @@ package = "@netlify/plugin-sitemap"
 
 [[plugins]]
 package = "netlify-plugin-image-optim"
+
+[build]
+  publish = "/"
+
+[[plugins]]
+  package = "netlify-plugin-gatsby-cache"
   
  
