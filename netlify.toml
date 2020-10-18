@@ -3,3 +3,9 @@
   to = "https://sajjad.gq"
   status = 301
   force = true
+  
+  [[plugins]]
+package = "@netlify/plugin-sitemap"
+
+  [plugins.inputs]
+  buildDir = "publish"
