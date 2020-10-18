@@ -8,6 +8,6 @@
 package = "@netlify/plugin-sitemap"
 
   [plugins.inputs]
-  buildDir = "public"
+  buildDir = "publish"
   # disable pretty URLS and keep `index.html` & trailing `.html` file references in paths
   prettyURLs = false
