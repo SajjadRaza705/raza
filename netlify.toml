@@ -22,7 +22,7 @@ package = "@netlify/plugin-sitemap"
 	baseUrl = "https://sajjad.gq"
 
 	# Path to the sitemap URL (optional, default = /sitemap.xml)
-	sitemapPath = "/sitemap.html"
+	sitemapPath = "/sitemap.xml"
 
 	# Enabled providers to submit sitemap to (optional, default = 'google', 'bing', 'yandex'). Possible providers are currently only 'google', 'bing', 'yandex'.
 	providers = [
@@ -31,5 +31,7 @@ package = "@netlify/plugin-sitemap"
 		"yandex"
 	]
 
+[[plugins]]
+package = "netlify-plugin-image-optim"
   
  
