@@ -1,4 +1,0 @@
-Sitemap: https://sajjad.gq/sitemap.xml
-User-agent: *
-
-
