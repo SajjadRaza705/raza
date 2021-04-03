@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/sitemap%20(1).xml"
+  to = "https://raw.githubusercontent.com/SajjadRaza705/raza/master/sitemap%20(1).xml"
+  status = 200
+  force = true
